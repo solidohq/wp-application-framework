@@ -1,2 +1,3 @@
-# wp-router
-Solido WP Router is an attempt to provide a lightweight routing framework for Wordpress.
+# wp-application-framework
+
+Solido WP Application Framework is an attempt to provide lightweight routing, controller, sercice and view layers. Inspired by Silex by SensioLabs.
